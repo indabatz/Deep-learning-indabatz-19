@@ -1,0 +1,4 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "Parrot.AI", description: "Open and volunteer Parrot.AI ", link: "http://pythontz.github.io", imageUrl: "logos.svg"}
