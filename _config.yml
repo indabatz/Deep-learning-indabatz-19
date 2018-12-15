@@ -15,7 +15,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Indabatz"
 email: "indabatanzania@gmail.com"
 description: "The first Pythontz Machine learning Summer School in Tanzania"
-baseurl: "/indabax"
+baseurl: "indabatz.github.io"
 url: "https://indabatz.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
